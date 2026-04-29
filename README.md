@@ -1,4 +1,4 @@
-# 📊 Meta Ad Performance Dashboard
+# Meta Ad Performance Dashboard
 
 ![PowerBI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Domain](https://img.shields.io/badge/Domain-Digital%20Marketing%20Analytics-1D4ED8?style=for-the-badge)
@@ -11,11 +11,11 @@ A comprehensive **Power BI dashboard** analyzing Meta (Facebook & Instagram) adv
 
 ## 📊 Dashboard Preview
 
-### Ad Performance Dashboard
-![Ad Performance](dashboard1.png)
+### Ad Performance
+<img src="dashboard1.png" width="600"/>
 
-### Campaign Budget & Performance Analysis
-![Campaign Budget Analysis](dashboard2.png)
+### Campaign Analysis
+<img src="dashboard2.png" width="600"/>
 
 ---
 
@@ -125,7 +125,7 @@ Both pages support dynamic filtering by:
 
 ## 📄 Project Report
 
-A detailed project report (`Meta_Ad_Performance_Report.docx`) is included, covering:
+A detailed project report (`Meta_Ad_Performance_Report.pdf`) is included, covering:
 - Executive summary & all KPIs
 - Full dashboard documentation for both pages
 - Key insights & findings
